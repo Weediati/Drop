@@ -1,0 +1,11 @@
+name: ParDragonDropPL
+author: ParPlayPL
+main: item.dragondrop.Main
+version: 0.01_BETA
+commands:
+  drop:
+    description: Pokazuje drop.
+    aliases: [kamien, stone]
+  turbodrop:
+    description: turbodrop.
+    aliases: [turbogracz, turboo]
